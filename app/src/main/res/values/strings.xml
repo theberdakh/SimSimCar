@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimSim Car</string>
+    <string name="no_paired_device">Bluetooth úskene jalǵanbaǵan.</string>
+    <string name="device_is_connected">%1$s ǵa jalǵandı.</string>
+    <string name="left">Shepke</string>
+    <string name="forward">Aldınǵa</string>
+    <string name="right">Ońǵa</string>
+    <string name="backward">Artqa</string>
+    <string name="simsim">SimSim IT oqıw orayı</string>
+</resources>
